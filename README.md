@@ -226,13 +226,13 @@ The **dual-branch fusion** compensates: GMSRBC provides reliable color correctio
 
 **KIIT University | Project-I (CS47001)**
 
-| Name | Role |
-|------|------|
-| Shabbiruddin Mohammad | Team Lead |
-| Yashdeep Patra | Member |
-| Upanshu Gupta | Member |
-| Aryan Rath | Member |
-| Pranav Prakash | Member |
+| Name | Roll No. | Role |
+|------|----------|------|
+| Mohammad Shabbir Uddin | 23052976 | Lead Developer — architecture design, model coding (U-Net, diffusion, DDIM), training pipeline, inference & fusion |
+| Divyanshi Chaurasia | 23053124 | Data & Preprocessing — UIEB dataset collection (890 images), train/test split, resizing, normalization |
+| Palak Gautam | 23052982 | Literature & Research — base paper study, related work survey, upgrade justification |
+| Gaurav Sharma | 23052966 | Testing & Evaluation — metrics (PSNR, SSIM, UIQM, PIQE), comparison images, ablation analysis |
+| Anshu Shahdeo | 23052547 | Integration & Documentation — bug documentation, normalization verification, report & presentation |
 
 **Guide:** Prof. Prabhu Prasad Dev
 
